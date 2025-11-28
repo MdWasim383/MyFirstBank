@@ -115,7 +115,6 @@ public class Account {
 			}
 		}while(option != 'F');
 		System.out.println("Thank you for banking with us!");
-		System.out.println("This is for Tetsing");
 	}
 	
 	
